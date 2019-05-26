@@ -1,0 +1,38 @@
+C:/Users/Richard LeBlanc/Dropbox/CPSC 4400/Code for studios and projects/project3 - My version/obj/Debug/Project3.csprojResolveAssemblyReference.cache
+C:/Users/Richard LeBlanc/Dropbox/CPSC 4400/Code for studios and projects/project3 - My version/obj/Debug/TCCL-AST.exe
+C:/Users/Richard LeBlanc/Dropbox/CPSC 4400/Code for studios and projects/project3 - My version/obj/Debug/TCCL-AST.pdb
+C:/Users/Richard LeBlanc/Dropbox/CPSC 4400/Code for studios and projects/project3 - My version/bin/Debug/TCCL-AST.exe.config
+C:/Users/Richard LeBlanc/Dropbox/CPSC 4400/Code for studios and projects/project3 - My version/bin/Debug/TCCL-AST.exe
+C:/Users/Richard LeBlanc/Dropbox/CPSC 4400/Code for studios and projects/project3 - My version/bin/Debug/TCCL-AST.pdb
+C:/Users/lebla/Dropbox/CPSC 4400/Code for studios and projects/project3 - My version/bin/Debug/TCCL-AST.exe.config
+C:/Users/lebla/Dropbox/CPSC 4400/Code for studios and projects/project3 - My version/bin/Debug/TCCL-AST.exe
+C:/Users/lebla/Dropbox/CPSC 4400/Code for studios and projects/project3 - My version/bin/Debug/TCCL-AST.pdb
+C:/Users/lebla/Dropbox/CPSC 4400/Code for studios and projects/project3 - My version/obj/Debug/TCCL-AST.exe
+C:/Users/lebla/Dropbox/CPSC 4400/Code for studios and projects/project3 - My version/obj/Debug/TCCL-AST.pdb
+C:/Users/lebla/Documents/GitHub/Project-3/bin/Debug/TCCL-AST.exe.config
+C:/Users/lebla/Documents/GitHub/Project-3/bin/Debug/TCCL-AST.exe
+C:/Users/lebla/Documents/GitHub/Project-3/bin/Debug/TCCL-AST.pdb
+C:/Users/lebla/Documents/GitHub/Project-3/obj/Debug/Project3.csprojResolveAssemblyReference.cache
+C:/Users/lebla/Documents/GitHub/Project-3/obj/Debug/TCCL-AST.exe
+C:/Users/lebla/Documents/GitHub/Project-3/obj/Debug/TCCL-AST.pdb
+/Users/somyakajla/Documents/compiler/Projects/Project-3/obj/Debug/Project3.csprojAssemblyReference.cache
+/Users/somyakajla/Documents/compiler/Projects/Project-3/obj/Debug/Project3.csproj.CoreCompileInputs.cache
+/Users/somyakajla/Documents/compiler/Projects/Project-3/obj/Debug/TCCL-AST.exe
+/Users/somyakajla/Documents/compiler/Projects/Project-3/obj/Debug/TCCL-AST.pdb
+/Users/somyakajla/Documents/compiler/Projects/Project-3/bin/Debug/TCCL-AST.exe.config
+/Users/somyakajla/Documents/compiler/Projects/Project-3/bin/Debug/TCCL-AST.exe
+/Users/somyakajla/Documents/compiler/Projects/Project-3/bin/Debug/TCCL-AST.pdb
+C:/Users/sushantc/Documents/Somya Projects/Compiler/Project-3/obj/Debug/Project3.csprojAssemblyReference.cache
+C:/Users/sushantc/Documents/Somya Projects/Compiler/Project-3/obj/Debug/Project3.csproj.CoreCompileInputs.cache
+C:/Users/sushantc/Documents/Somya Projects/Compiler/Project-3/obj/Debug/TCCL-AST.exe
+C:/Users/sushantc/Documents/Somya Projects/Compiler/Project-3/obj/Debug/TCCL-AST.pdb
+C:/Users/sushantc/Documents/Somya Projects/Compiler/Project-3/bin/Debug/TCCL-AST.exe.config
+C:/Users/sushantc/Documents/Somya Projects/Compiler/Project-3/bin/Debug/TCCL-AST.exe
+C:/Users/sushantc/Documents/Somya Projects/Compiler/Project-3/bin/Debug/TCCL-AST.pdb
+/Users/somyakajla/Desktop/Project-3/bin/Debug/TCCL-AST.exe.config
+/Users/somyakajla/Desktop/Project-3/bin/Debug/TCCL-AST.exe
+/Users/somyakajla/Desktop/Project-3/bin/Debug/TCCL-AST.pdb
+/Users/somyakajla/Desktop/Project-3/obj/Debug/Project3.csprojAssemblyReference.cache
+/Users/somyakajla/Desktop/Project-3/obj/Debug/Project3.csproj.CoreCompileInputs.cache
+/Users/somyakajla/Desktop/Project-3/obj/Debug/TCCL-AST.exe
+/Users/somyakajla/Desktop/Project-3/obj/Debug/TCCL-AST.pdb

@@ -1,0 +1,34 @@
+/*Tests for handling erroneous use of types in if and while statements 
+    and errors in method call argument lists  */
+
+public class fact2 {
+
+   public static int factorial(int x) {
+
+/*  Erroneous use of an integer as the expression for an if statement  */
+      if x return 1;
+      else return x * factorial (x-1);
+
+/*  Trying to use not on an integer and using the result in an if statement  */
+/*  Only one error message should result if ErrorType is used correctly  */
+      if (not x) return 1;
+      else return x * factorial (x-1);
+   }
+
+   public static void main() {
+     int i, gobble;
+     i = 0;
+
+/*  Erroneous use of an integer as the expression for a while statement  */
+     while ( i + 15) {
+
+/*  Three calls to factorial with erroneous argument lists */
+        gobble =  factorial (i, gobble);
+        gobble =  factorial ();
+        gobble =  factorial ("gobble");
+
+/*  Call to Writeline with a function as an argument */
+        WriteLine (factorial);
+        i = i + 1;
+     }   
+   }

@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{82DC719C-48C3-4F6D-B2F3-4C1356785264}|Default">
+  <MonoDevelop.Ide.ItemProperties.Project3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TypeDescriptor.cs">
+    <Files>
+      <File FileName="TCCL.grammar.y" Line="187" Column="30" />
+      <File FileName="GrammarNodes.cs" Line="1" Column="1" />
+      <File FileName="AbstractNode.cs" Line="20" Column="24" />
+      <File FileName="PrintVisitor.cs" Line="1" Column="1" />
+      <File FileName="TypeDescriptor.cs" Line="23" Column="49" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Project3" expanded="True">
+            <Node name="Project3" expanded="True">
+              <Node name="TCCL.parser" expanded="True" />
+              <Node name="TypeDescriptor.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
